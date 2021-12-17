@@ -1,1 +1,2 @@
 # Race-to-the-Top
+I use two different data sets: Grade 4 Mathematics Average Scale Scores and Grade 4 Reading Average Scale Scores, both from the National Assessment of Education Progress. Both data sets contain average scale score data from every state ranging from 2005 to 2019. To estimate the causal effect of the RTTT competitive grant program on test scores, I use both a simple differences-in-differences and differences-in-differences OLS regression.
